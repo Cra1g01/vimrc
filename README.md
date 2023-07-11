@@ -1,0 +1,2 @@
+# vimrc
+Minimal vimrc
