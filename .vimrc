@@ -39,7 +39,7 @@ vnoremap <leader>d \"_d
 inoremap <C-c> <Esc>
 nnoremap Q <nop>
 nnoremap <C-k> <cmd>cnext<CR>zz
-nnoremap <C-j> <cmd>cprev<CR>\\
+nnoremap <C-j> <cmd>cprev<CR>zz
 nnoremap <leader>k <cmd>lnext<CR>zz
 nnoremap <leader>j <cmd>lprev<CR>zz
 nnoremap <silent> <leader>s :%s/\\<<C-r><C-w>\\>/<C-r><C-w>/gI<Left><Left><Left>
